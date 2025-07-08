@@ -44,6 +44,7 @@ pip install -r requirements.txt
 To launch the application, use the following Streamlit command:
 
 streamlit run app.py
+---
 
 ## ✅ Milestones Achieved
 **📁 Week 1 – Data Cleaning & Preparation** 
@@ -51,7 +52,7 @@ streamlit run app.py
  -Cleaned and prepared the dataset for model training
  -Tools used: Pandas, Jupyter Notebook
 
--**📁 Week 2 – Data Exploration & Visualization**
+**📁 Week 2 – Data Exploration & Visualization**
  -Imported cleaned dataset (data_clean.csv)
  -Performed feature engineering and pattern recognition
  -Created various visualizations:
@@ -61,7 +62,7 @@ streamlit run app.py
  -Visual outlier detection
  -Identified dependencies and emission trends from the data
 
--**📁 Week 3 – Model Building & Evaluation**
+**📁 Week 3 – Model Building & Evaluation**
  -Summarized the project goals and clarified dataset source
  -Imported necessary libraries and ensured reproducibility
  -Provided a clear overview of data columns and feature abbreviations
@@ -73,8 +74,10 @@ streamlit run app.py
  -Validated the model’s performance on unseen test data
  -Documented conclusions and prepared the model for deployment
 
+---
 ## 🛠 Tools Summary
-Data Handling: Pandas, NumPy
-Visualization: Matplotlib, Seaborn
-Modeling: scikit-learn
-Notebook & UI: Jupyter Notebook, Streamlit
+**Data Handling:** Pandas, NumPy
+**Visualization:** Matplotlib, Seaborn
+**Modeling:** scikit-learn
+**Notebook & UI:** Jupyter Notebook, Streamlit
+---
