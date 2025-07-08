@@ -76,8 +76,12 @@ streamlit run app.py
 
 ---
 ## 🛠 Tools Summary
-**Data Handling:** Pandas, NumPy
-**Visualization:** Matplotlib, Seaborn
-**Modeling:** scikit-learn
-**Notebook & UI:** Jupyter Notebook, Streamlit
+
+| Category          | Tools Used                          |
+|-------------------|-------------------------------------|
+| **Data Handling** | Pandas, NumPy                       |
+| **Visualization** | Matplotlib, Seaborn                 |
+| **Modeling**      | scikit-learn                        |
+| **Notebook & UI** | Jupyter Notebook, Streamlit         |
+
 ---
